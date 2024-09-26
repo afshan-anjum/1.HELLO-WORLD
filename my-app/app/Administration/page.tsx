@@ -6,4 +6,4 @@ const Administration = () =>{
 
 
 
-export default Administration
+export default Administration;
